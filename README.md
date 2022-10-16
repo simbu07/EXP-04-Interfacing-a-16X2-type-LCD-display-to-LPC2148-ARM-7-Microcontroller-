@@ -52,11 +52,13 @@ For creating the simulation environment in Proteus suite
 Starting New Design
 
 
-### Step 1: Open ISIS software and select New design in  File menu
+### Step 1: 
+Open ISIS software and select New design in  File menu
  ![image](https://user-images.githubusercontent.com/36288975/195773344-a709ee34-4429-4892-b703-24bad5236243.png)
 Figure -03 Proteus File Menu
 
-###  Step 2: A dialogue box appears to save the current design. However, we are creating a new design file so you can click Yes or No depending on the content of the present file. Then a Pop-Up appears asking to select the template. It is similar to selecting the paper size while printing. For now select default or according to the layout size of the circuit.
+###  Step 2:
+A dialogue box appears to save the current design. However, we are creating a new design file so you can click Yes or No depending on the content of the present file. Then a Pop-Up appears asking to select the template. It is similar to selecting the paper size while printing. For now select default or according to the layout size of the circuit.
  
  
  ![image](https://user-images.githubusercontent.com/36288975/195773617-7731fb71-82dc-40bb-ba6d-69ed59894244.png)
@@ -65,10 +67,12 @@ Figure -03 Proteus File Menu
   
     
  
- ### Step 3:An untitled design sheet will be opened, save it according to your wish,it is better to create a new folder for every layout as it generates other files supporting your design. However,it is not mandatory.
+ ### Step 3:
+ An untitled design sheet will be opened, save it according to your wish,it is better to create a new folder for every layout as it generates other files supporting your design. However,it is not mandatory.
   Figure -05 Proteus Design Sheet
  
-### Step 4:To Select components, Click on the component mode button.
+### Step 4:
+To Select components, Click on the component mode button.
  ![image](https://user-images.githubusercontent.com/36288975/195773645-6444563d-1372-4065-b5d4-ecad7f3d8172.png)
 
 Figure -06 Component Mode
@@ -77,13 +81,15 @@ Step 5:Click On Pick from Libraries. It shows the categories of components avail
 
   Figure -07 Pick from Libraries
 
-### Step 6: Select the components from categories or type the part name in Keywords text box.
+### Step 6: S
+elect the components from categories or type the part name in Keywords text box.
  Place all the required components and route the wires i.e, make connections.
 Either selection mode above the component mode or component mode allows to connect through wires. Left click from one terminal to other to make connection. Double right-click on the connected wire or the component to remove connection or the component respectively.
  
  Figure -08 Component Properties Selection
 Double click on the component to edit the properties of the components and click on Ok.
-### Step 8: Select ARM microcontroller form the library – pick part 
+### Step 8:
+Select ARM microcontroller form the library – pick part 
  ![image](https://user-images.githubusercontent.com/36288975/195773721-dc54c649-1fbb-4da2-b619-72c0533925dc.png)
 
 Figure -09 LPC2138/48 selection
@@ -107,7 +113,8 @@ Figure -11 Circuit diagram of 16x2 LCD interface with LPC2148/38
  
 Figure -12 Hex file for simulation 
 
-### Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
+### Step 9: 
+Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
 
 ## Kiel - Program  
