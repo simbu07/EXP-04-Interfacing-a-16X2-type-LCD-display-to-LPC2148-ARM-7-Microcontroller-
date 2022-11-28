@@ -1,4 +1,9 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
+```
+Name: Silambarasan K
+Roll No: 212221230101
+Date: 
+```
 
 ## Aim: 
 To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
